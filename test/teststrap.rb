@@ -8,4 +8,4 @@ rescue Bundler::BundlerError => e
   exit e.status_code
 end
 require 'riot'
-require 'abiquo-ruby-client'
+require File.expand_path(File.dirname(__FILE__)+"/../lib/abiquo_ruby_client.rb")

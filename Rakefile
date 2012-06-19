@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "abiquo-ruby-client"
   gem.homepage = "http://github.com/sgirones/abiquo-ruby-client"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Abiquo API Ruby client}
+  gem.description = %Q{Abiquo API client build in Ruby}
   gem.email = "salvador.girones@abiquo.com"
   gem.authors = ["sgirones"]
   # dependencies defined in Gemfile

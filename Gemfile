@@ -12,3 +12,9 @@ group :development do
   gem "jeweler", "~> 1.8.3"
   gem "rcov", ">= 0"
 end
+
+gem "faraday", ">= 0"
+gem "faraday_middleware", ">= 0"
+gem "hashie", ">= 0"
+gem "multi_xml", ">= 0"
+gem "nokogiri", ">= 0"
